@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sdangol\\Desktop\\Test app\\desktopapp\\TEst_app\\TEst_app\\TEst_app.csproj": {}
+    "D:\\new_project_desktopapp\\TEst_app\\TEst_app\\TEst_app.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sdangol\\Desktop\\Test app\\desktopapp\\TEst_app\\TEst_app\\TEst_app.csproj": {
+    "D:\\new_project_desktopapp\\TEst_app\\TEst_app\\TEst_app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sdangol\\Desktop\\Test app\\desktopapp\\TEst_app\\TEst_app\\TEst_app.csproj",
+        "projectUniqueName": "D:\\new_project_desktopapp\\TEst_app\\TEst_app\\TEst_app.csproj",
         "projectName": "TEst_app",
-        "projectPath": "C:\\Users\\Sdangol\\Desktop\\Test app\\desktopapp\\TEst_app\\TEst_app\\TEst_app.csproj",
-        "packagesPath": "C:\\Users\\Sdangol\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sdangol\\Desktop\\Test app\\desktopapp\\TEst_app\\TEst_app\\obj\\",
+        "projectPath": "D:\\new_project_desktopapp\\TEst_app\\TEst_app\\TEst_app.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\new_project_desktopapp\\TEst_app\\TEst_app\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Sdangol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

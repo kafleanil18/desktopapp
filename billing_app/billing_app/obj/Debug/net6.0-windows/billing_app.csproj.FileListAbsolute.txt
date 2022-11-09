@@ -1,0 +1,17 @@
+D:\new_project_desktopapp\billing_app\billing_app\bin\Debug\net6.0-windows\billing_app.exe
+D:\new_project_desktopapp\billing_app\billing_app\bin\Debug\net6.0-windows\billing_app.deps.json
+D:\new_project_desktopapp\billing_app\billing_app\bin\Debug\net6.0-windows\billing_app.runtimeconfig.json
+D:\new_project_desktopapp\billing_app\billing_app\bin\Debug\net6.0-windows\billing_app.dll
+D:\new_project_desktopapp\billing_app\billing_app\bin\Debug\net6.0-windows\billing_app.pdb
+D:\new_project_desktopapp\billing_app\billing_app\obj\Debug\net6.0-windows\billing_app.csproj.AssemblyReference.cache
+D:\new_project_desktopapp\billing_app\billing_app\obj\Debug\net6.0-windows\billing_app.Form1.resources
+D:\new_project_desktopapp\billing_app\billing_app\obj\Debug\net6.0-windows\billing_app.csproj.GenerateResource.cache
+D:\new_project_desktopapp\billing_app\billing_app\obj\Debug\net6.0-windows\billing_app.GeneratedMSBuildEditorConfig.editorconfig
+D:\new_project_desktopapp\billing_app\billing_app\obj\Debug\net6.0-windows\billing_app.AssemblyInfoInputs.cache
+D:\new_project_desktopapp\billing_app\billing_app\obj\Debug\net6.0-windows\billing_app.AssemblyInfo.cs
+D:\new_project_desktopapp\billing_app\billing_app\obj\Debug\net6.0-windows\billing_app.csproj.CoreCompileInputs.cache
+D:\new_project_desktopapp\billing_app\billing_app\obj\Debug\net6.0-windows\billing_app.dll
+D:\new_project_desktopapp\billing_app\billing_app\obj\Debug\net6.0-windows\refint\billing_app.dll
+D:\new_project_desktopapp\billing_app\billing_app\obj\Debug\net6.0-windows\billing_app.pdb
+D:\new_project_desktopapp\billing_app\billing_app\obj\Debug\net6.0-windows\billing_app.genruntimeconfig.cache
+D:\new_project_desktopapp\billing_app\billing_app\obj\Debug\net6.0-windows\ref\billing_app.dll
