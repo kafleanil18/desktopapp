@@ -1,4 +1,4 @@
-touch .gitignore
+
 git config --global user.name Anil
 git config --global user.email "kafleanil18@gmail.com"
 git init
